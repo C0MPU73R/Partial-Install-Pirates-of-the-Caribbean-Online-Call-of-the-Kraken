@@ -1,0 +1,21 @@
+<xml>
+
+<!-- Preserve whatever bundle setting we are using for when we restart to menu -->
+<setrestartarg><name>UseBundles</name><value>$UseBundles</value></setrestartarg>
+
+<!-- We are loading directly from chooser, set the expected args!! -->
+<alias><name>missionState</name><value>inGame</value></alias>
+
+<!-- todo: remove this -->
+<setconfigvar><name>LgGlobalDebug</name><value>true</value></setconfigvar>
+
+<loadcommandxmlfile><filename>init_pcdev.xml</filename><arrayname>init_pcdev_array</arrayname></loadcommandxmlfile>
+<insertxmlarray><arrayname>init_pcdev_array</arrayname></insertxmlarray>
+
+<!-- Load the basic launch support -->
+<bundlechoice><loadfile>launch_load.xml</loadfile><nmo>launch.nmo</nmo><usebundles>$UseBundles</usebundles></bundlechoice>
+<insertxmlarray><arrayname>init_os_array</arrayname></insertxmlarray>
+
+<threadsetcommandarray><object>$this</object><array>level_launch_array</array></threadsetcommandarray>
+
+</xml>

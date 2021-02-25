@@ -1,0 +1,16 @@
+<xml>
+
+<!-- No bundles, loading in dev mode -->
+<alias><name>UseBundles</name><value>true</value></alias>
+<setrestartarg><name>UseBundles</name><value>$UseBundles</value></setrestartarg>
+
+<setconfigvar><name>LgGlobalLoadDynamic</name><value>true</value></setconfigvar>
+
+<!-- Load the basic launch support -->
+<bundlechoice><loadfile>launch_load.xml</loadfile><nmo>launch.nmo</nmo><usebundles>$UseBundles</usebundles></bundlechoice>
+<insertxmlarray><arrayname>init_os_array</arrayname></insertxmlarray>
+
+<threadsetcommandarray><object>$this</object><array>mainmenu_launch_array</array></threadsetcommandarray>
+
+
+</xml>

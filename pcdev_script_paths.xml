@@ -1,0 +1,7 @@
+<xml>
+<resourcepathadd><path>Scripts</path><type>data</type></resourcepathadd>
+<resourcepathadd><path>Scripts\Launch</path><type>data</type></resourcepathadd>
+<resourcepathadd><path>Scripts\Level</path><type>data</type></resourcepathadd>
+<resourcepathadd><path>Scripts\Mainmenu</path><type>data</type></resourcepathadd>
+<resourcepathadd><path>Scripts\PcDev</path><type>data</type></resourcepathadd>
+</xml>

@@ -1,0 +1,12 @@
+<xml>
+
+<!-- Preserve whatever bundle setting we are using for when we restart to menu -->
+<setrestartarg><name>UseBundles</name><value>$UseBundles</value></setrestartarg>
+
+<!-- Load the basic launch support -->
+<bundlechoice><loadfile>launch_load.xml</loadfile><nmo>launch.nmo</nmo><usebundles>$UseBundles</usebundles></bundlechoice>
+<insertxmlarray><arrayname>init_os_array</arrayname></insertxmlarray>
+
+<threadsetcommandarray><object>$this</object><array>level_launch_array</array></threadsetcommandarray>
+
+</xml>

@@ -1,0 +1,16 @@
+<xml>
+
+<!-- No bundles, loading in dev mode -->
+<alias><name>UseBundles</name><value>false</value></alias>
+
+<loadcommandxmlfile><filename>init_pcdev.xml</filename><arrayname>init_pcdev_array</arrayname></loadcommandxmlfile>
+<insertxmlarray><arrayname>init_pcdev_array</arrayname></insertxmlarray>
+
+<!-- Load the basic launch support -->
+<bundlechoice><loadfile>launch_load.xml</loadfile><nmo>launch.nmo</nmo><usebundles>$UseBundles</usebundles></bundlechoice>
+
+<!-- Create the bundles -->
+<loadcommandxmlfile><filename>create_maptiles.xml</filename><arrayname>create_maptiles_array</arrayname></loadcommandxmlfile>
+<insertxmlarray><arrayname>create_maptiles_array</arrayname></insertxmlarray>
+
+</xml>

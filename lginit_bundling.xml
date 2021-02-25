@@ -1,0 +1,22 @@
+<xml>
+
+<!-- No bundles, loading in dev mode -->
+<alias><name>UseBundles</name><value>false</value></alias>
+
+<loadcommandxmlfile><filename>Scripts\PcDev\init_pcdev.xml</filename><arrayname>init_pcdev_array</arrayname></loadcommandxmlfile>
+<insertxmlarray><arrayname>init_pcdev_array</arrayname></insertxmlarray>
+
+<!-- Bundling require static loading -->
+<setconfigvar><name>LgGlobalLoadDynamic</name><value>false</value></setconfigvar>
+
+<alert><message>STATIC LOADING SET: DO NOT SAVE CMO!</message></alert>
+
+<!-- Load the basic launch support -->
+<bundlechoice><loadfile>launch_load.xml</loadfile><nmo>launch.nmo</nmo><usebundles>$UseBundles</usebundles></bundlechoice>
+
+
+<!-- Create the bundles -->
+<loadcommandxmlfile><filename>create_bundles.xml</filename><arrayname>create_bundles_array</arrayname></loadcommandxmlfile>
+<insertxmlarray><arrayname>create_bundles_array</arrayname></insertxmlarray>
+
+</xml>

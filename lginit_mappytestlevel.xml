@@ -1,0 +1,30 @@
+<xml>
+
+<!-- Preserve whatever bundle setting we are using for when we restart to menu -->
+<setrestartarg><name>UseBundles</name><value>$UseBundles</value></setrestartarg>
+
+<!-- We are loading directly from chooser, set the expected args!! -->
+<alias><name>PlayerName</name><value>DefaultPlayer</value></alias>
+<alias><name>CurrentLevel</name><value>mappy_test_array</value></alias>
+
+<!-- todo: remove this -->
+<setconfigvar><name>LgGlobalDebug</name><value>true</value></setconfigvar>
+
+<!-- Minimal path support to launch -->
+<resourcepathclear></resourcepathclear>
+<resourcepathadd><path>Scripts</path><type>data</type></resourcepathadd>
+<resourcepathadd><path>Scripts\PcDev</path><type>data</type></resourcepathadd>
+<resourcepathadd><path>Scripts\Launch</path><type>data</type></resourcepathadd>
+<resourcepathadd><path>Nmolibs</path><type>data</type></resourcepathadd>
+<resourcepathadd><path>Bundles</path><type>data</type></resourcepathadd>
+
+<!-- Load the basic launch support -->
+<bundlechoice><loadfile>launch_load.xml</loadfile><nmo>launch.nmo</nmo><usebundles>$UseBundles</usebundles></bundlechoice>
+<insertxmlarray><arrayname>init_os_array</arrayname></insertxmlarray>
+
+<loadcommandxmlfile><filename>init_pcdev.xml</filename><arrayname>init_pcdev_array</arrayname></loadcommandxmlfile>
+<insertxmlarray><arrayname>init_pcdev_array</arrayname></insertxmlarray>
+
+<threadsetcommandarray><object>$this</object><array>level_launch_array</array></threadsetcommandarray>
+
+</xml>

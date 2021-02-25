@@ -1,0 +1,155 @@
+***  Installation Started 02/10/2010 13:09  ***
+Title: Pirates of the Caribbean Call of the Kraken  
+Source: C:\DOCUME~1\USER\LOCALS~1\Temp\GLB13.tmp
+Made Dir: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Pirates of the Caribbean Call of the Kraken
+RegDB Val: Pirates of the Caribbean Call of the Kraken
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Pirates of the Caribbean Call of the Kraken
+RegDB Val: C:\PROGRA~1\Disney\DISNEY~1\PIRATE~2\UNWISE.EXE C:\PROGRA~1\Disney\DISNEY~1\PIRATE~2\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\16kraken.ico
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\32Kraken.ico
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\Albertus21pt.png
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\ExampleCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\fx.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\gi_loading_text.png
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\jCore.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\jGlobalVSL.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\jMenuManager.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\kraken32.ico
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\KrakenCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\launch.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\level.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\levelsounds.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\LgCharacterCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\LgCharacterCommandsV1.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\LgClient_v4_web.cmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\LgEventCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\LgFrameCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit_bundling.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit_level.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit_level_from_menu.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit_mainmenu.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit_mainmenu_from_level.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit_mappytestlevel.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit_maptiles.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\lginit_pcrelease.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\LgSoundCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\LgSpecialEffectsCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\mainmenu.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\MapEditDevCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\PcDevCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\pcdev_res_paths.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\pcdev_script_paths.xml
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\PcMoviePlayerCommands.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\region1.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\region2.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\region3.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\region4.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\region5.nmo
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\ViewerCommands.nmo
+Made Dir: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\activate_licenses.ini
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\cg.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\cgGL.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\CK2.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\CKZlib.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\ConfigInfo.exe
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\font_rendermanager.tga
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\lgcustomplayer.exe
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\LGREADME.txt
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\MFC71.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\msvcr71.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\nk2.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\SelSetDep.ini
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\VCrypt.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\VSL.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\VSLRT.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\vsutils.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\VxMath.dll
+Made Dir: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\3DTransfo.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\BuildingBlocksAddons1.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\BuildingBlocksAddons2.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Cameras.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Characters.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Collisions.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Controllers.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\CryptedLoader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\DatabaseClientModule2.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\DownloadMediaClient2.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Grids.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Interface.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\LgDevBBs.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Lights.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Logics.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Materials.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\MeshModifiers.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\MidiManager.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\MultiUserClient.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Narratives.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\ParticleSystems.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Shader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Sounds.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Video.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\Visuals.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\WorldEnvironments.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\BuildingBlocks\XInputController.dll
+Made Dir: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\CKFEMgr.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\Dx5InputManager.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\DX7SoundManager.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\ParameterOperations.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\VideoManager.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\vs2_embedded.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\VSLManager.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\vsmanager2.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\WebManager.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Managers\WebserverManager.dll
+Made Dir: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\3dsLoader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\AscLoader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\AVIReader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\DDSReader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\Dx8VideoManager.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\Dx9VideoManager.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\ImageReader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\JpgLoader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\PngLoader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\TiffReader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\VirtoolsLoader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\vraniml.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\Vrmlloader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\WavReader.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\Plugins\XLoader.dll
+Made Dir: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\RenderEngines
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\RenderEngines\CK2_3D.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\RenderEngines\CKDX7Rasterizer.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\RenderEngines\CKDX8Rasterizer.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\RenderEngines\CKDX9Rasterizer.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\RenderEngines\CKGLRasterizer.dll
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\CustomPlayer\RenderEngines\CKGLRasterizer.ini
+File Copy: C:\Program Files\Disney\Disney Online\Pirates of the Caribbean Call of the Kraken\RunPcRelease.bat
+Made Dir: C:\Documents and Settings\USER\Start Menu\Programs\Pirates of the Caribbean Call of the Kraken
+Shell Link: C:\Documents and Settings\USER\Start Menu\Programs\Pirates of the Caribbean Call of the Kraken\Pirates of the Caribbean Call of the Kraken.lnk
+Shell Link: C:\Documents and Settings\All Users\Desktop\Pirates of the Caribbean Call of the Kraken.lnk
+Made Dir: C:\Documents and Settings\All Users\Start Menu\Programs\Pirates of the Caribbean Call of the Kraken
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\Pirates of the Caribbean Call of the Kraken\Uninstall CallOfTheKraken.lnk
+RegDB Key: SOFTWARE\Disney\Disney Online\DGD_PiratesCallOfTheKraken
+RegDB Val: C:\PROGRA~1\Disney\DISNEY~1\PIRATE~2\RunPcRelease.bat
+RegDB Name: InstallPath
+RegDB Root: 2
+RegDB Key: SOFTWARE\Disney\Disney Online\DGD_PiratesCallOfTheKraken
+RegDB Val: C:\PROGRA~1\Disney\DISNEY~1\PIRATE~2\Unwise.exe
+RegDB Name: UninstallPath
+RegDB Root: 2
+RegDB Key: SOFTWARE\Disney\Disney Online\DGD_PiratesCallOfTheKraken
+RegDB Val: C:\PROGRA~1\Disney\DISNEY~1\PIRATE~2
+RegDB Name: CurrentPath
+RegDB Root: 2
+User Rights: Admin
